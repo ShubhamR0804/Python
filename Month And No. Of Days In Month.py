@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 12 22:48:22 2020
-
-@author: Shubham Ramteke
-"""
-
-
 n=int(input("The Month No.= "))
 if(n==1):
     print(31,"(The Month is : January)")
